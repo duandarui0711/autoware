@@ -1,0 +1,24 @@
+# other settings
+.vscode
+
+# backup file
+*.bak
+
+# log file
+*.log
+log
+
+# files too large
+*.pcd
+
+# external packages
+external/*
+!external/concealer
+
+# auto-generated files
+html
+latex
+scenario_simulator.tar
+site
+*.pyc
+build
